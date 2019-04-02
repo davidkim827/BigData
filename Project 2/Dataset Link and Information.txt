@@ -1,0 +1,6 @@
+https://www.kaggle.com/samsonqian/college-admissions
+https://www.kaggle.com/wsj/college-salaries
+
+salaries by college type.csv
+salaries by region.csv
+data-table 1.csv
