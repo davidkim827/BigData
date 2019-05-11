@@ -6,4 +6,4 @@ Project 1: Regarding Datastore technologies, our team implemented statistical an
 
 Project 2: Regarding analytics, our team ran statistical analyses on a few datasets using the statistical and graphics language, R. Utilizing some of the tidyverse libraries and functions, as well as ggplot, we ran our analyses on educational and salary datasets to see what sorts of relationships could exist.
 
-Project 3: Will update as we finish. SparkML Project.
+Project 3: Regarding distributed processing on a Spark Cluster, our team ran a predictive text analytics model using SparkML via PySpark by pre-categorizing random academic papers in PDF and DOCX formats, converting those text data in to TXT format, inputting them into a CSV, importing them as a Spark Dataframe object, cleaning the text, and running a Multinomial Naive Bayes classifier. 
