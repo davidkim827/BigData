@@ -1,5 +1,7 @@
 # BigData
 
+<b><i>Use of any code in this repo in any form for academic purposes is considered cheating, which is not only unfair to your classmates, but as well as yourself. Use at your own risk.</i></b>
+
 Please read the pdf files located in each of the sub folders. They are the complete report of the work that was completed in groups/partnerships in Big Data Class.
 
 Project 1: Regarding Datastore technologies, our team implemented statistical analyses within MySQL such as Linear Regression and Standard Deviation. We also attempted to work with Mongo, however Mongo was not the most useful for our dataset. We also used R to create helper scripts to be able to craft our extremely long MySQL queries to be able to perform statistical analyses on our datasets. The SQL queries regarding each analyses have been placed into separate SQL scripts. We learned about the importance of understanding about the storage techniques that should be used on certain kinds of data.
