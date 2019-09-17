@@ -1,4 +1,4 @@
-setwd("C:/Users/dk/Desktop/NYU Classes/Semester 2/Big Data/Datastore Project")
+setwd("________________")
 df <- read.csv("Sale_Prices_Msa.csv")
 transpose <- t(df)
 
